@@ -10,11 +10,11 @@ Repositório criado para armazenar todos os exercícios, desafios e projetos des
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" height="100" valign="middle">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://geps.dev/progress/3" valign="middle">
+  <img src="https://geps.dev/progress/6" valign="middle">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" height="100" valign="middle">
   <br>
-  <p><b>6 de 214 aulas concluídas (2,80%)</b></p>
+  <p><b>13 de 214 aulas concluídas (6%)</b></p>
 </div>
 
 ---
